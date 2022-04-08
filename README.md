@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AGLindgren 
-- 👀 I’m interested in changing my career. I am just starting this journey and I am looking forward to all my adventures in futre
-- 🌱 I’m currently learning Data Sciences on Codecademy
+- 👀 I’m interested in changing my career. I am just starting this journey and I am looking forward to all my adventures in the future.
+- 🌱 I’m currently learning Data Sciences on Codecademy.
 - 🌱 I will add more later.  
 
 <!---
